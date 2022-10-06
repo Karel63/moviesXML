@@ -1,0 +1,9 @@
+<movies>
+    <movie id="1" name="Super movie" year="1998">
+        <genres>
+            <genre id="1" name="adventure">
+            <genre id="2" name="action">
+        <genres>
+        <country id="1" name="USA">
+    </movie>
+</movies>
