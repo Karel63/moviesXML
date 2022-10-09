@@ -1,9 +1,16 @@
 <movies>
-    <movie id="1" name="Super movie" year="1998">
+    <movie id="1" name="Bad Black" year="2016">
         <genres>
-            <genre id="1" name="adventure">
-            <genre id="2" name="action">
+            <genre id="1" name="Action">
+            <genre id="2" name="Comedy">
         <genres>
-        <country id="1" name="USA">
+        <country id="1" name="Uganda">
+    </movie>
+    <movie id="2" name="Treasure Planet" year="1982">
+        <genres>
+            <genre id="3" name="Animation">
+            <genre id="4" name="Sci-fi">
+        <genres>
+        <country id="2" name="Bulgaria">
     </movie>
 </movies>
