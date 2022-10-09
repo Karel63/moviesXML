@@ -2,7 +2,7 @@
 
 ## Name
 
-Simple-movies.XML
+simple-movies.XML
 
 ## Specification
 
@@ -10,7 +10,7 @@ Code in UTF-8
 
 ## Example
 
-[Click here](movies.XML)
+[Click here](simple-movies.XML)
 
 # Help
 
